@@ -11,3 +11,5 @@ then you can just click "run" button in android studio.
 `src/cpp` - cpp implementation
 
 `android/` - android project
+
+![](https://github.com/grzegorzdec/react-native-cpp-poc/blob/master/screenshot.png?raw=true)
